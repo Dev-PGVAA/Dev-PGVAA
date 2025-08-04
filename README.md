@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A passionate frontend developer from Russia, but I'm constantly fumble around trying to learn something new</h3>
+<h3 align="center">A passionate frontend developer from Russia 🇷🇺, but I'm constantly fumble around trying to learn something new</h3>
 
 
 
