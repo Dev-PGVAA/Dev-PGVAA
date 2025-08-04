@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nestjs, React Native**
 
-- 👨‍💻 All of my projects are available at - <a href="https://github.com/Dev-PGVAA?tab=repositories](https://github.com/Dev-PGVAA?tab=repositories">link</a>, but something can be private xD
+- 👨‍💻 All of my projects are available at - **<a href="https://github.com/Dev-PGVAA?tab=repositories](https://github.com/Dev-PGVAA?tab=repositories">link</a>**, but something can be private xD
 
 - 📫 How to reach me **artem2501190@gmail.com**
 
