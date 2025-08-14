@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-pgvaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev-pgvaa" /> </p>
 
-- 🔭 I’m currently working on **Better health app**
+- 🔭 I’m currently working on **Workout app**
 
 - 🌱 I’m currently learning **Nestjs, React Native**
 
